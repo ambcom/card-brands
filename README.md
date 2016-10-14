@@ -1,1 +1,20 @@
-# card-brands
+## Brands
+- [x] Visa
+- [x] MasterCard
+- [x] DinersClub
+- [x] American Express
+- [x] Hipercard
+- [x] Aura
+- [x] Elo
+- [x] Pleno
+- [x] Personal
+- [x] ValeCard
+- [x] BrasilCard
+- [x] FortBrasil
+- [x] Cabal
+- [x] Mais
+- [x] AVista
+- [x] GrandCard
+- [x] Discover
+- [x] JCB
+- [x] Boleto
