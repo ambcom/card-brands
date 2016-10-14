@@ -1,0 +1,86 @@
+i.payment-methods {
+	float: left;
+	background-image: url('methods.png');
+	background-size: 100% auto;
+	width: 50px;
+	height: 25px;
+	border: solid 1px #eee;
+	border-radius: 3px;
+	margin: 5px;
+}
+
+i.payment-methods.visa{
+	background-position: 0px 0px;
+}
+
+i.payment-methods.mastercard{
+	background-position: 0px -25px;
+}
+
+i.payment-methods.dinnersclub{
+	background-position: 0px -51px;
+}
+
+i.payment-methods.amex{
+	background-position: 0px -77px;
+}
+
+i.payment-methods.hipercard{
+	background-position: 0px -102px;
+}
+
+i.payment-methods.aura{
+	background-position: 0px -127px;
+}
+
+i.payment-methods.elo{
+	background-position: 0px -153px;
+}
+
+i.payment-methods.pleno{
+	background-position: 0px -178px;
+}
+
+i.payment-methods.personalcard{
+	background-position: 0px -203px;
+}
+
+i.payment-methods.valecard{
+	background-position: 0px -254px;
+}
+
+i.payment-methods.brasilcard{
+	background-position: 0px -279px;
+}
+
+i.payment-methods.fortbrasil{
+	background-position: 0px -306px;
+}
+
+i.payment-methods.cabal{
+	background-position: 0px -331px;
+}
+
+i.payment-methods.maiscard{
+	background-position: 0px -356px;
+}
+
+i.payment-methods.avista{
+	background-position: 0px -382px;
+}
+
+i.payment-methods.grandcard{
+	background-position: 0px -406px;
+}
+
+i.payment-methods.discover{
+	background-position: 0px -435px;
+}
+
+i.payment-methods.jcb{
+	background-position: 0px -468px;
+}
+
+i.payment-methods.boleto{
+	background-position: 0px -499px;
+}
