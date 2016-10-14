@@ -17,8 +17,6 @@
 - [x] GrandCard
 - [x] Discover
 - [x] JCB
-- [ ] Nubank
-- [ ] Original
 - [ ] RedeShop
 - [ ] Maestro
 - [ ] SoroCred
@@ -34,16 +32,26 @@
 - [ ] GreenCard
 
 #### Banks
-- [ ] Banco do Brasil
+- [x] Banco do Brasil
 - [ ] Caixa
 - [ ] Itau
 - [ ] Santander
 - [ ] Bradesco
-- [ ] Votorantim
 - [ ] Sicoob
 - [ ] Unibanco
 - [ ] HSBC
 - [ ] Banrisul
 
+#### Companies
+- [ ] Nubank
+- [ ] Original
+- [ ] Votorantim
+- [ ] Cielo
+- [ ] PagSeguro
+- [ ] PayPal
+- [ ] MercadoPago
+- [ ] Ebanx
+
 #### Others
 - [x] Boleto
+- [ ] Deposito

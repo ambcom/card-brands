@@ -1,7 +1,7 @@
 i.payment-methods {
 	float: left;
 	background-image: url('methods.png');
-	background-size: 100% auto;
+	background-size: 200% auto;
 	width: 50px;
 	height: 25px;
 	border: solid 1px #eee;
@@ -83,4 +83,8 @@ i.payment-methods.jcb{
 
 i.payment-methods.boleto{
 	background-position: 0px -499px;
+}
+
+i.payment-methods.bancobrasil{
+	background-position: -50px -1px;
 }
